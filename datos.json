@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Trade Sky Bar",
+        "barrio": "Microcentro",
+        "plan": "Tomar algo en un rooftop con vistas de Buenos Aires y disfrutar la ciudad desde arriba."
+    },
+    {
+        "nombre": "The Hole",
+        "barrio": "Palermo",
+        "plan": "Probar tragos en un bar temático con una ambientación inspirada en una prisión."
+    },
+    {
+        "nombre": "Niceto Club",
+        "barrio": "Palermo",
+        "plan": "Escuchar música, ver shows y terminar la noche bailando."
+    }
+]
